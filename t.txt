@@ -1,0 +1,26 @@
+﻿tablitsa таблица
+	tansa танца
+	teleinssenirovka телеинсценировка
+	tendensioz тенденциоз
+	tendensiozlik тенденциозлик
+	teplitsa теплица
+	terset терцет
+	texnetsiy технеций
+	traditsion традицион
+	transkripsion транскрипцион
+	transkripsiyalamoq транскрипцияламоқ
+	translyatsion трансляцион
+	transformatsiyalamoq трансформацияламоқ
+	tarjimayi таржимаи
+	tabel табель
+    tekstil текстиль    
+    tigel тигель
+    tokar токарь
+    tol толь
+    tonnel тоннель
+    tunnel туннель
+    tush тушь
+    tyulen тюлень
+    tyul тюль
+	talk тальк
+    telefilm телефильм
