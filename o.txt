@@ -1,0 +1,19 @@
+﻿okkupatsion оккупацион
+	okkupatsiyachi оккупациячи
+	operatsiyaviy операциявий
+	oppozotsion оппозоцион
+	oppozitsiyachi оппозициячи
+	ordinarets ординарец
+	ofitser офицер
+	ofitsiant официант
+	ofitsiantka официантка
+	obroㄹ-eㄹtibor обрў-эътибор
+    omon-eson омон-эсон
+	oblast область
+    otel отель  
+    ochered очередь
+	obyekt объект
+	oftalmolog офтальмолог
+	oktabr октябрь
+	okkultizm оккультизм
+    oftalmologiya офтальмология

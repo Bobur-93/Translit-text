@@ -1,0 +1,13 @@
+lanset ланцет
+	levomitsetin левомицетин
+	leykotsitlar лейкоцитлар
+	leykotsitoz лейкоцитоз
+	litsey лицей
+	litsenziya лицензия
+	lotsman лоцман
+	lyutetsiy лютеций
+	lager лагерь
+    latun латунь
+    losos лосось   
+	losyon лосьон
+	loson лосьон

@@ -1,0 +1,57 @@
+﻿marganes марганец
+minonoses миноносец
+munitsipal муниципал
+месенат меценат
+marganets марганец
+	matritsa матрица
+	meditsina медицина
+	mexanizatsiyalash механизациялаш
+	mexanizatsiyalashmoq механизациялашмоқ
+	mexanitsizm механицизм
+	mizanssena мизансцена
+	militsioner милиционер
+	militsiyaxona милицияхона
+	mineralizatsiya минерализация
+	minonosets миноносец
+	mistitsizm мистицизм
+	modernizatsiyalamoq модернизацияламоқ
+	mototsiklet мотоциклет
+	mototsikletchi мотоциклетчи
+	mototsiklli мотоциклли
+	mototsiklchi мотоциклчи
+	multiplikatsion мультипликацион
+	munitsipalitet муниципалитет
+	mushaf мусҳаф
+    mer мэр
+	mayonez майонез
+    mikrorayon микрорайон
+    mayor майор
+	mil миль
+	magistral магистраль    
+    mebel мебель
+    medal медаль    
+    migren мигрень    
+    model модель    
+    monastir монастирь    
+    motel мотель
+	multi мульти
+	medalyon медальон
+    modelyer модельер
+	marselyeza марсельеза
+	monokultura монокультура
+	marseleza марсельеза
+    medalon медальон
+    melxior мельхиор
+    menshevizm меньшевизм
+    menshevik меньшевик
+    mikroinsult микроинсульт
+    mikrofilm микрофильм
+    modeler модельер
+    molbert мольберт
+    monokultoura монокультоура
+    multi- мульти-
+    multimediya мультимедия
+    multimillioner мультимиллионер
+    multiplikatsion мультипликацион
+    multiplikator мультипликатор
+    multiplikatsiya мультипликация
