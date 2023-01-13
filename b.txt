@@ -1,0 +1,55 @@
+batsilla бацилла
+biomitsin  биомицин
+bronenoses  броненосец
+bakteritsid бактерицид
+	batsillar бациллар
+	biolyuminessensiya биолюминесценци€
+	botsman боцман
+	bronenosets броненосец
+	brutsellyoz бруцеллЄз
+	beletaj бельэтаж
+    bugun-erta бугун-эрта
+	barrel баррель
+    banderol бандероль
+    binokl бинокль
+	broneavtomobil бронеавтомобиль
+    bron бронь
+    byulleten бюллетень
+	balneo бальнео
+    baryer барьер
+    bulyon бульон
+    bullet бульвар
+	belgiya бельги€
+	brakoner браконьер
+	barelyef барельеф
+    batalyon батальон
+	bazalt базальт
+    balzam бальзам
+    balzamlash бальзамлаш
+    balneolog бальнеолог
+    balneologik бальнеологик
+    balneologiya бальнеологи€
+    balneoterapiya бальнеотерапи€
+    balneotexnika бальнеотехника
+    barelef барельеф
+    barer барьер
+    batalon батальон
+    belveder бельведер
+    belgiyalik бельги€лик
+    belting бельтинг
+    beletaj бельэтаж
+    bilyard биль€рд
+    biofiltr биофильтр
+    bolonya болонь€
+    bolshevizm большевизм
+    bolshevik большевик
+    brakonerlik браконьерлик
+    budilnik будильник
+    bulvar бульвар
+    buldenej бульденеж
+    buldog бульдог
+    buldozer бульдозер
+    buldozerlar бульдозерлар
+    bulonlar булонлар
+    buldozerchi бульдозерчи
+    bulon бульон

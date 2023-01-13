@@ -1,0 +1,54 @@
+﻿avianoses  авианосец
+avtopritsep  автоприцеп
+aberratsion  аберрацион
+abzats  абзац
+	abstraksionizm  абстракционизм
+	abstraksionist  абстракционист
+	abssess  абсцесс
+	avianosets  авианосец
+	avtoprsep  автопрцеп
+	agitatsion  агитацион
+	agnostitsizm  агностицизм
+	aksent  акцент
+	aksiz  акциз
+	aksioner  акционер
+	aksionerlik  акционерлик
+	aksiyadorlik  акциядорлик
+	antitsiklon  антициклон
+	antratsit  антрацит
+	appenditsit  аппендицит
+	attestatsion  аттестацион
+	atsetilen  ацетилен
+	atseton  ацетон
+	azitromitsin  azitromitsin
+	atelye  ателье
+	adyunktura адъюнктура
+	albatros альбатрос
+    albom альбом
+    alpinizm альпинизм
+    alpinist альпинист
+    alt альт
+    alternativ альтернатив
+    alternativa альтернатива
+    altimetr альтиметр
+    altchi альтчи
+    alfa альфа
+    alfa-zarralar альфа-зарралар
+    alma-terapiya альма-терапия
+    alyans альянс
+    amalgama амальгама
+    apelsin апельсин
+    artikl артикль
+    arergard арьергард
+    asfalt асфальт
+    asfaltlamoq асфальтламоқ
+    asfaltli асфальтли
+    atele ателье
+	avtomagistral автомагистраль
+    aviamodel авиамодель
+    avtomobil автомобиль
+    akvarel акварель
+    alkogol алкоголь
+    ansambl ансамбль
+    aprel апрель
+    avtomagistralavtomat автомагистральавтомат
